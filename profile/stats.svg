@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yuta Sugiyama&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 3043, Total PRs: 1128, Total Issues: 134, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 2997, Total PRs: 1128, Total Issues: 134, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.32800128471322;
+        stroke-dashoffset: 78.32923604841156;
       }
     }
   
